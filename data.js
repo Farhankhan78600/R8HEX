@@ -1,5 +1,5 @@
 module.exports = {
-  token: "7932700969:AAGqCrKZUg_S53s--sqminY_7_uUaJCdW30",
-  id:"5359191250",
+  token: "7880809396:AAG9ugPqJcGniUeVgQFne_mzbjyH6IEwR_o",
+  id:"8150418484",
   address:"https://r8hex-1.onrender.com"
 };
